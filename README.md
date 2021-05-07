@@ -4,11 +4,11 @@ Simple CLI based Quiz Game which reads the problems from the CSV file & at the e
 
 ## Description
 
-A time based quiz game.
+A timeout based quiz game.
 
 Default value of timeout is 30sec & questions are stored in the problems.csv
 
-User can optionally configure the timeout or provide another quiz file.
+User can optionally configure the timeout or provide another problem statement CSV file in the format of 'question,answer'.
 
 ## Use
 
